@@ -46,6 +46,12 @@ An algorithm is then needed that can convert these subreddit vectors into a 2D m
 
 Finally, Bokeh is used to visualize our subreddit map. 
 
+![](images/2020_jan_feb_apr_map.png)
+
+
+![](images/2020_jan_feb_apr_map_starwars.png)
+
+
 
 ### Analyzing Clusters
 
