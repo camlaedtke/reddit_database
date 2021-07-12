@@ -49,7 +49,7 @@ Finally, Bokeh is used to visualize our subreddit map.
 ![](images/2020_jan_feb_apr_map.png)
 
 
-![](images/2020_jan_feb_apr_map_starwars.png)
+![](images/2020_jan_feb_apr_starwars.png)
 
 
 
