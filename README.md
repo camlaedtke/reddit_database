@@ -45,8 +45,7 @@ First, a sparse matrix is created where the rows and columns are both indexed by
 An algorithm is then needed that can convert these subreddit vectors into a 2D map, where (x,y) coordinate pairs encode the relative distance between subreddits. While a non-linear dimensionality reduction technique like t-SNE seems like a good fit for this problem, the computational cost poses problems for datasets as large as ours. An algorithm called LargeVis is used instead, which uses some clever tricks to get a more computationally effecient approach. In fact, from my experiments it actually gives much better results than t-SNE. 
 
 Finally, Bokeh is used to visualize our subreddit map. 
- 
-![](2020_jan_feb_apr_subreddit_interactive_map.html)
+
 
 ### Analyzing Clusters
 
